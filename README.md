@@ -8,4 +8,4 @@ source venv/bin/activate
 如果不激活虚拟环境，直接使用pip3安装包，会安装到全局环境。
 pip3 install torch torchvision torchaudio
 
-##
+## 内部包含RNN、LSTM、Transformer等NLP模型的原理、代码、实例
