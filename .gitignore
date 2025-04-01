@@ -1,0 +1,12 @@
+# Python 虚拟环境
+venv/
+.venv/
+
+# Python 编译文件
+__pycache__/
+*.py[cod]
+
+# 其他常见忽略项
+*.log
+*.sqlite3
+.DS_Store  # Mac 的隐藏文件
